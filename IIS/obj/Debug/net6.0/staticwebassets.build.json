@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nxLb1/V3xHd1kq5Qv6xShubfJqkWIwm4Z5I5FdytF+0=",
+  "Source": "IIS",
+  "BasePath": "_content/IIS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

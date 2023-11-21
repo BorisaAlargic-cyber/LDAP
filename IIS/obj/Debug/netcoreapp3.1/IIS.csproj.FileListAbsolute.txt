@@ -1,0 +1,334 @@
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/IIS.deps.json
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/IIS.runtimeconfig.json
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/IIS.runtimeconfig.dev.json
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/IIS.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/IIS.pdb
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/EntityFramework.SqlServer.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/EntityFramework.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/Humanizer.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/System.CodeDom.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/System.Data.SqlClient.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/borisaalargic/Desktop/IIS/IIS/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/borisaalargic/Desktop/IIS/IIS/obj/Debug/netcoreapp3.1/IIS.AssemblyInfoInputs.cache
+/Users/borisaalargic/Desktop/IIS/IIS/obj/Debug/netcoreapp3.1/IIS.AssemblyInfo.cs
+/Users/borisaalargic/Desktop/IIS/IIS/obj/Debug/netcoreapp3.1/IIS.csproj.CoreCompileInputs.cache
+/Users/borisaalargic/Desktop/IIS/IIS/obj/Debug/netcoreapp3.1/IIS.MvcApplicationPartsAssemblyInfo.cache
+/Users/borisaalargic/Desktop/IIS/IIS/obj/Debug/netcoreapp3.1/staticwebassets/IIS.StaticWebAssets.Manifest.cache
+/Users/borisaalargic/Desktop/IIS/IIS/obj/Debug/netcoreapp3.1/staticwebassets/IIS.StaticWebAssets.xml
+/Users/borisaalargic/Desktop/IIS/IIS/obj/Debug/netcoreapp3.1/scopedcss/bundle/IIS.styles.css
+/Users/borisaalargic/Desktop/IIS/IIS/obj/Debug/netcoreapp3.1/IIS.RazorTargetAssemblyInfo.cache
+/Users/borisaalargic/Desktop/IIS/IIS/obj/Debug/netcoreapp3.1/IIS.csproj.CopyComplete
+/Users/borisaalargic/Desktop/IIS/IIS/obj/Debug/netcoreapp3.1/IIS.dll
+/Users/borisaalargic/Desktop/IIS/IIS/obj/Debug/netcoreapp3.1/IIS.pdb
+/Users/borisaalargic/Desktop/IIS/IIS/obj/Debug/netcoreapp3.1/IIS.genruntimeconfig.cache
+/Users/borisaalargic/Desktop/IIS/IIS/obj/Debug/netcoreapp3.1/IIS.csprojAssemblyReference.cache
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/IIS.deps.json
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/IIS.runtimeconfig.json
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/IIS.runtimeconfig.dev.json
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/IIS.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/IIS.pdb
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/EntityFramework.SqlServer.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/EntityFramework.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/Humanizer.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/System.CodeDom.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/System.Data.SqlClient.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/obj/Debug/netcoreapp3.1/IIS.csprojAssemblyReference.cache
+/Users/nebojsa.bobic/Downloads/IIS/IIS/obj/Debug/netcoreapp3.1/IIS.AssemblyInfoInputs.cache
+/Users/nebojsa.bobic/Downloads/IIS/IIS/obj/Debug/netcoreapp3.1/IIS.AssemblyInfo.cs
+/Users/nebojsa.bobic/Downloads/IIS/IIS/obj/Debug/netcoreapp3.1/IIS.csproj.CoreCompileInputs.cache
+/Users/nebojsa.bobic/Downloads/IIS/IIS/obj/Debug/netcoreapp3.1/IIS.MvcApplicationPartsAssemblyInfo.cache
+/Users/nebojsa.bobic/Downloads/IIS/IIS/obj/Debug/netcoreapp3.1/staticwebassets/IIS.StaticWebAssets.Manifest.cache
+/Users/nebojsa.bobic/Downloads/IIS/IIS/obj/Debug/netcoreapp3.1/staticwebassets/IIS.StaticWebAssets.xml
+/Users/nebojsa.bobic/Downloads/IIS/IIS/obj/Debug/netcoreapp3.1/scopedcss/bundle/IIS.styles.css
+/Users/nebojsa.bobic/Downloads/IIS/IIS/obj/Debug/netcoreapp3.1/IIS.RazorTargetAssemblyInfo.cache
+/Users/nebojsa.bobic/Downloads/IIS/IIS/obj/Debug/netcoreapp3.1/IIS.csproj.CopyComplete
+/Users/nebojsa.bobic/Downloads/IIS/IIS/obj/Debug/netcoreapp3.1/IIS.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/obj/Debug/netcoreapp3.1/IIS.pdb
+/Users/nebojsa.bobic/Downloads/IIS/IIS/obj/Debug/netcoreapp3.1/IIS.genruntimeconfig.cache
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/DinkToPdf.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/Common.Logging.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/Common.Logging.Core.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/itext.barcodes.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/itext.forms.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/itext.io.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/itext.kernel.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/itext.layout.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/itext.pdfa.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/itext.sign.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/itext.styledxmlparser.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/itext.svg.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/nebojsa.bobic/Downloads/IIS/IIS/bin/Debug/netcoreapp3.1/BouncyCastle.Crypto.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/IIS.deps.json
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/IIS.runtimeconfig.json
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/IIS.runtimeconfig.dev.json
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/IIS.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/IIS.pdb
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/Common.Logging.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/Common.Logging.Core.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/DinkToPdf.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/EntityFramework.SqlServer.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/EntityFramework.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/Humanizer.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/itext.barcodes.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/itext.forms.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/itext.io.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/itext.kernel.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/itext.layout.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/itext.pdfa.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/itext.sign.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/itext.styledxmlparser.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/itext.svg.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/BouncyCastle.Crypto.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/System.CodeDom.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/System.Data.SqlClient.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/obj/Debug/netcoreapp3.1/IIS.csprojAssemblyReference.cache
+/Users/borisaalargic/Desktop/IIS 2/IIS/obj/Debug/netcoreapp3.1/IIS.AssemblyInfoInputs.cache
+/Users/borisaalargic/Desktop/IIS 2/IIS/obj/Debug/netcoreapp3.1/IIS.AssemblyInfo.cs
+/Users/borisaalargic/Desktop/IIS 2/IIS/obj/Debug/netcoreapp3.1/IIS.csproj.CoreCompileInputs.cache
+/Users/borisaalargic/Desktop/IIS 2/IIS/obj/Debug/netcoreapp3.1/IIS.MvcApplicationPartsAssemblyInfo.cache
+/Users/borisaalargic/Desktop/IIS 2/IIS/obj/Debug/netcoreapp3.1/staticwebassets/IIS.StaticWebAssets.Manifest.cache
+/Users/borisaalargic/Desktop/IIS 2/IIS/obj/Debug/netcoreapp3.1/staticwebassets/IIS.StaticWebAssets.xml
+/Users/borisaalargic/Desktop/IIS 2/IIS/obj/Debug/netcoreapp3.1/scopedcss/bundle/IIS.styles.css
+/Users/borisaalargic/Desktop/IIS 2/IIS/obj/Debug/netcoreapp3.1/IIS.RazorTargetAssemblyInfo.cache
+/Users/borisaalargic/Desktop/IIS 2/IIS/obj/Debug/netcoreapp3.1/IIS.csproj.CopyComplete
+/Users/borisaalargic/Desktop/IIS 2/IIS/obj/Debug/netcoreapp3.1/IIS.dll
+/Users/borisaalargic/Desktop/IIS 2/IIS/obj/Debug/netcoreapp3.1/IIS.pdb
+/Users/borisaalargic/Desktop/IIS 2/IIS/obj/Debug/netcoreapp3.1/IIS.genruntimeconfig.cache
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/IIS.deps.json
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/IIS.runtimeconfig.json
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/IIS.runtimeconfig.dev.json
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/IIS.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/IIS.pdb
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/Common.Logging.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/Common.Logging.Core.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/DinkToPdf.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/EntityFramework.SqlServer.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/EntityFramework.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/Humanizer.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/itext.barcodes.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/itext.forms.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/itext.io.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/itext.kernel.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/itext.layout.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/itext.pdfa.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/itext.sign.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/itext.styledxmlparser.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/itext.svg.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/BouncyCastle.Crypto.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/System.CodeDom.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/System.Data.SqlClient.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/obj/Debug/netcoreapp3.1/IIS.csproj.AssemblyReference.cache
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/obj/Debug/netcoreapp3.1/IIS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/obj/Debug/netcoreapp3.1/IIS.AssemblyInfoInputs.cache
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/obj/Debug/netcoreapp3.1/IIS.AssemblyInfo.cs
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/obj/Debug/netcoreapp3.1/IIS.csproj.CoreCompileInputs.cache
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/obj/Debug/netcoreapp3.1/IIS.MvcApplicationPartsAssemblyInfo.cache
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/obj/Debug/netcoreapp3.1/staticwebassets/IIS.StaticWebAssets.Manifest.cache
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/obj/Debug/netcoreapp3.1/staticwebassets/IIS.StaticWebAssets.xml
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/obj/Debug/netcoreapp3.1/scopedcss/bundle/IIS.styles.css
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/obj/Debug/netcoreapp3.1/IIS.RazorTargetAssemblyInfo.cache
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/obj/Debug/netcoreapp3.1/IIS.csproj.CopyComplete
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/obj/Debug/netcoreapp3.1/IIS.dll
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/obj/Debug/netcoreapp3.1/IIS.pdb
+/Users/borisaalargic/Desktop/Projekti Zavrseni/IIS 2/IIS/obj/Debug/netcoreapp3.1/IIS.genruntimeconfig.cache
